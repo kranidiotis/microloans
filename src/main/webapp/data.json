@@ -1,0 +1,129 @@
+{
+
+    "lenders": 
+
+[
+
+{
+
+    "town": "Παναγιώτης",
+    "streetname": "Αθήνα",
+    "postalcode": null,
+    "name": "1",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "null",
+    "streetname": "null",
+    "postalcode": null,
+    "name": "9",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "Πέτρος",
+    "streetname": "Ορμυλια",
+    "postalcode": null,
+    "name": "11",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "Μανώλης",
+    "streetname": "Χωριό",
+    "postalcode": null,
+    "name": "13",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "a",
+    "streetname": "a",
+    "postalcode": null,
+    "name": "14",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "g",
+    "streetname": "g",
+    "postalcode": null,
+    "name": "15",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "s",
+    "streetname": "s",
+    "postalcode": null,
+    "name": "16",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "s",
+    "streetname": "s",
+    "postalcode": null,
+    "name": "17",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "?????",
+    "streetname": "????????",
+    "postalcode": null,
+    "name": "19",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+{
+
+    "town": "ΤΕστ",
+    "streetname": "πανος",
+    "postalcode": null,
+    "name": "21",
+    "streetnumber": null,
+    "vat": null,
+    "lastupdate": null
+
+},
+
+        {
+            "town": "Πανος",
+            "streetname": "Κάτω",
+            "postalcode": null,
+            "name": "22",
+            "streetnumber": null,
+            "vat": null,
+            "lastupdate": null
+        }
+    ]
+
+}

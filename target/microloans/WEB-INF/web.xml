@@ -1,0 +1,28 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>DeleteLender</servlet-name>
+  	<display-name>DeleteLender</display-name>
+  	<description></description>
+  	<servlet-class>com.microloans.DeleteLender</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>LoanRequest</servlet-name>
+  	<display-name>LoanRequest</display-name>
+  	<description></description>
+  	<servlet-class>com.microloans.LoanRequest</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>DeleteLender</servlet-name>
+  	<url-pattern>/DeleteLender</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>LoanRequest</servlet-name>
+  	<url-pattern>/LoanRequest</url-pattern>
+  </servlet-mapping>
+
+</web-app>
